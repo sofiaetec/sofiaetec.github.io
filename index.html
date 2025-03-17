@@ -1,0 +1,33 @@
+<nome>
+
+</nome>
+
+<span id="nomePersonagem">...</span>
+
+<br><br><br><br>
+<img src="" id="image">
+
+<script>
+   
+  async function getData() {
+  const url = "https://dragonball-api.com/api/characters/19";
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Response status: ${response.status}`);
+    }
+
+    const json = await response.json();
+    console.log(json);
+    console.log(json.name);
+    document.getElementById('nomePersonagem').innerText = json.name;
+    document.getElementById("image").src = json.image;
+
+  } catch (error) {
+    console.error(error.message);
+  }
+}
+
+getData();
+
+</script>
