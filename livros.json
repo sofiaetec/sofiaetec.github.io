@@ -1,0 +1,162 @@
+[
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "anoPublicacao": 1949
+    },
+    {
+      "titulo": "Admirável Mundo Novo",
+      "autor": "Aldous Huxley",
+      "anoPublicacao": 1932
+    },
+    {
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "anoPublicacao": 1953
+    },
+  
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "anoPublicacao": 1899
+    },
+    {
+      "titulo": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "anoPublicacao": 1881
+    },
+    {
+      "titulo": "O Cortiço",
+      "autor": "Aluísio Azevedo",
+      "anoPublicacao": 1890
+    },
+  
+    {
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "anoPublicacao": 1813
+    },
+    {
+      "titulo": "Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "anoPublicacao": 1847
+    },
+    {
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Emily Brontë",
+      "anoPublicacao": 1847
+    },
+  
+    {
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "anoPublicacao": 1954
+    },
+    {
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "anoPublicacao": 1937
+    },
+    {
+      "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+      "autor": "C.S. Lewis",
+      "anoPublicacao": 1950
+    },
+  
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "anoPublicacao": 1997
+    },
+    {
+      "titulo": "Harry Potter e a Câmara Secreta",
+      "autor": "J.K. Rowling",
+      "anoPublicacao": 1998
+    },
+    {
+      "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+      "autor": "J.K. Rowling",
+      "anoPublicacao": 1999
+    },
+  
+    {
+      "titulo": "Código Da Vinci",
+      "autor": "Dan Brown",
+      "anoPublicacao": 2003
+    },
+    {
+      "titulo": "Anjos e Demônios",
+      "autor": "Dan Brown",
+      "anoPublicacao": 2000
+    },
+    {
+      "titulo": "O Símbolo Perdido",
+      "autor": "Dan Brown",
+      "anoPublicacao": 2009
+    },
+  
+    {
+      "titulo": "Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "anoPublicacao": 1943
+    },
+    {
+      "titulo": "O Alquimista",
+      "autor": "Paulo Coelho",
+      "anoPublicacao": 1988
+    },
+    {
+      "titulo": "Veronika Decide Morrer",
+      "autor": "Paulo Coelho",
+      "anoPublicacao": 1998
+    },
+  
+    {
+      "titulo": "Sapiens: Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "anoPublicacao": 2011
+    },
+    {
+      "titulo": "Homo Deus",
+      "autor": "Yuval Noah Harari",
+      "anoPublicacao": 2015
+    },
+    {
+      "titulo": "21 Lições para o Século 21",
+      "autor": "Yuval Noah Harari",
+      "anoPublicacao": 2018
+    },
+  
+    {
+      "titulo": "O Poder do Hábito",
+      "autor": "Charles Duhigg",
+      "anoPublicacao": 2012
+    },
+    {
+      "titulo": "Mindset: A Nova Psicologia do Sucesso",
+      "autor": "Carol S. Dweck",
+      "anoPublicacao": 2006
+    },
+    {
+      "titulo": "Rápido e Devagar: Duas Formas de Pensar",
+      "autor": "Daniel Kahneman",
+      "anoPublicacao": 2011
+    },
+  
+    {
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "anoPublicacao": 1945
+    },
+    {
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "anoPublicacao": 1915
+    },
+    {
+      "titulo": "Crime e Castigo",
+      "autor": "Fiódor Dostoiévski",
+      "anoPublicacao": 1866
+    }
+  ]
+  
